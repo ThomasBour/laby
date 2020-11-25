@@ -1,6 +1,6 @@
 # Maze
 
-* Projet fait par : Jniouen Wassim
+* Projet fait par : Bourgeois Thomas
 
 * Dans le but d'un exercice pour ma formation   Web "Becode"
 
