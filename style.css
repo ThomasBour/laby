@@ -1,0 +1,44 @@
+div {
+    width: 40px;
+    height: 40px;
+}
+
+section {
+    display: flex;
+}
+
+.wall {
+    background : url(img/water.png)no-repeat;
+    border: 1px solid orange;
+    display: flex;
+    justify-content: space-around;
+}
+
+.path {
+    background : url(./img/sand.PNG);
+    border: 1px solid orange;
+    display: flex;
+    justify-content: space-around;
+}
+
+.start {
+    background-color: green;
+    border: 1px solid orange;
+    display: flex;
+    justify-content: space-around;
+}
+
+.end {
+    background : url(img/zelda.png)no-repeat;
+    border: 1px solid orange;
+    display: flex;
+    justify-content: space-around;
+}
+
+.player {
+    background : url(./img/118-1187556_were-currently-working-out-details-of-what-the-main-mini-link-zelda\ \(1\).png)no-repeat;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    align-self: center;
+}
