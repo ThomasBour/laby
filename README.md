@@ -36,3 +36,7 @@
 ## Screenshots :
 
 ![ Screenshots 1 ]()
+
+## Commentaires :
+
+Je Voudrais rajouter un personnage "méchant" et une video lorsque nous le rencontrons.
